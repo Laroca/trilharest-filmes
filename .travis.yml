@@ -2,7 +2,7 @@ language: java
 deploy:
   api-key:
     secure: uhjcXt6d/AqSe501aOKNPaUNzdkX1wqWsOqZ3qVtlvprKu+sg2rSJd2U3lNAP8aT+aKb0FexciNgvyuT2BZBXe9nsl92zEcy3y4a8jI0uPhXS7spZteM+/7G/BOdxWgVNioMeJcram1M7r3jO7j6jSgSp7YqVZwfK/lASN9AswkB68PoaCm1TBCL7I4B8gRXOTLUbxtPGLinGjPh9lyJDLEst3rZhHqk/O99NDTg/rrChpGoq+7VpIvwPuQK19C+gqe4jufzR9/LdDaJhxq9l7D5+Xo2vkyw33EcIY8/dcn6C9iueIn6zKIOx6qiyGIJkLMHaBQDPMHd+Q7Btnbwb/6CB5FtfJwhzvp0JB0DvKZw9b1MVHXKnDp1sSjk7xDF2KAFqa+fUdLqWAvj8QFyc4wiSBeSUYUVCwxqgTxzjA7GSGwfx4tFejuHe173H8kCytsgEerabaWjG8KEQcxKMCSoOy410QQpBOF9Bf84jaB42GfU1Pq//bzhFWf2aHgDopkaqXBOTQtDb473BBdKmtAAoJ1V7hRJaWkeXwIh2YuuE69rFciafZM7qvjwoYFH921krQuf+gAN/33pZe+fa/SN7spF9Mc37pCe8IYZ3FGO/BD2qZK7DVi6oIHRIFdFitWaUThrVqso11c19VU3co9XqjEjquRbCgpFjJyqWUw=
-  provader: heroku
+  provider: heroku
   app:
     staging: fl-trilharest-filmes-staging
     master: fl-trilharest-filmes-prd
