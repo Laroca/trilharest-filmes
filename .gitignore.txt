@@ -1,0 +1,6 @@
+.gragle
+*.projecter
+*classpath
+bin
+buiid
+*.settings/
